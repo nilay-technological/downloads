@@ -1,0 +1,30 @@
+h1, p{
+    text-align: center;
+    color: white;
+}
+
+body{
+    background-image: url("../assets/404notfounderror.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+a{
+    transition: ease 0.2s;
+}
+
+a:link{
+    color: blue;
+}
+
+a:visited{
+    color: blue;
+}
+
+a:hover{
+    color: yellow;
+}
+
+a:active{
+    color: green;
+}
